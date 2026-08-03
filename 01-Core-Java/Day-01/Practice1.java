@@ -14,7 +14,7 @@
 // College : XYZ
 // CGPA : 8.5
 
-public class Practice {
+public class Practice1 {
     public static void main(String[] args) {
         // Practice writing Java variables here
         String name="Datta";

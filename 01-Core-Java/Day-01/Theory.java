@@ -1,4 +1,4 @@
-public class Examples {
+public class Theory{
     public static void main(String[] args) {
         int age = 25;
         String name = "Alice";
